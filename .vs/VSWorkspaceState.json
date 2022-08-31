@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ex3",
+    "\\ex3\\src",
+    "\\ex3\\src\\js",
     "\\ex3\\src\\_includes",
-    "\\ex4"
+    "\\ex4",
+    "\\ex4\\dist",
+    "\\ex4\\dist\\js",
+    "\\ex4\\src",
+    "\\ex4\\src\\_data"
   ],
-  "SelectedNode": "\\ex3\\.gitignore",
-  "PreviewInSolutionExplorer": false
+  "SelectedNode": "\\ex4\\src\\_data\\news.js",
+  "PreviewInSolutionExplorer": true
 }

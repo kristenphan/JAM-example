@@ -2,12 +2,16 @@
   "name": "ex4",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "vibe.js",
   "scripts": {
-    "build": "eleventy", 
+    "build": "eleventy",
     "start": "eleventy --serve"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.2",
+    "axios": "^0.27.2"
+  }
 }
