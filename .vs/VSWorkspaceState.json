@@ -1,15 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ex3\\src",
-    "\\ex3\\src\\js",
-    "\\ex3\\src\\_includes",
     "\\ex4",
-    "\\ex4\\dist",
-    "\\ex4\\dist\\js",
     "\\ex4\\src",
     "\\ex4\\src\\_data"
   ],
-  "SelectedNode": "\\ex4\\src\\_data\\news.js",
+  "SelectedNode": "\\Local settings (.vs)",
   "PreviewInSolutionExplorer": true
 }
