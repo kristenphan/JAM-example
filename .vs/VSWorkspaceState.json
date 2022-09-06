@@ -1,10 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\ex4\\src",
+    "\\ex4\\src\\js",
+    "\\ex4\\src\\_data",
+    "\\ex4\\src\\_includes",
     "\\ex5",
+    "\\ex5\\dist",
     "\\ex5\\src",
     "\\ex5\\src\\_data"
   ],
-  "SelectedNode": "\\ex5\\src\\_data\\news.js",
+  "SelectedNode": "\\ex5\\src\\_data\\countries.json",
   "PreviewInSolutionExplorer": true
 }
